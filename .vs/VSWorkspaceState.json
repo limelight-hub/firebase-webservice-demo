@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\User-Registration-Confirmation",
+    "\\User-Registration-Confirmation\\EmailService"
+  ],
+  "SelectedNode": "\\User-Registration-Confirmation\\EmailService\\SendMailSMTP.cs",
+  "PreviewInSolutionExplorer": false
+}

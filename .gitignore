@@ -1,0 +1,76 @@
+# Firebase credentials and config
+client_secret*.json
+**/serviceAccountKey.json
+**/.firebaserc
+firebase-debug.log
+.firebase/
+firestore-debug.log
+ui-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.env.*
+
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+out/
+public/build/
+coverage/
+*.tsbuildinfo
+
+# Debug logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.history/
+*.sublime-project
+*.sublime-workspace
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+/coverage
+/.nyc_output
+
+# Temp files
+.tmp/
+.temp/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
